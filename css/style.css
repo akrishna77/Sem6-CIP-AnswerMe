@@ -1,0 +1,45 @@
+body{
+	background-image: url("../img/bg-index.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.upload-button{
+	margin-top: 50px;
+}
+.main-logo-img{
+	height:100px;
+}
+.main-div{
+	box-shadow: 1px 0px 10px 4px rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: 1px 0px 10px 4px rgba(0, 0, 0, 0.75);
+	-webkit-box-shadow: 1px 0px 10px 4px rgba(0, 0, 0, 0.75);
+	background-color: rgba(255, 255, 255, 0.75);
+	margin-top:8%;
+	padding-top: 5%;
+	height: 75%;
+}
+.browse{
+	background-color: rgb(7, 101, 173) !important;
+}
+.accordion-heading { background-color:#0CF; }
+        .accordion-heading:hover { background-color:#000; 
+          -webkit-transition: all 0.5s ease-in-out;
+             -moz-transition: all 0.5s ease-in-out;
+               -o-transition: all 0.5s ease-in-out;
+                  transition: all 0.5s ease-in-out; }
+.accordion-heading > a { 
+    color:#FFF; 
+    text-decoration:none;  }
+.results-group{
+	box-shadow: 1px 0px 10px 4px rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: 1px 0px 10px 4px rgba(0, 0, 0, 0.75);
+	-webkit-box-shadow: 1px 0px 10px 4px rgba(0, 0, 0, 0.75);
+	background-color: rgba(255, 255, 255, 0.75);
+	margin-top:8%;
+	padding-top: 5%;
+	min-height: 75%;
+}
+.in{
+	background-color: rgba(255, 255, 255, 0.75);
+}
